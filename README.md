@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-yesaya--portfolio.vercel.app-00ff9c?style=for-the-badge&labelColor=05070a)](https://yesaya-portfolio.vercel.app)
 [![HackerOne](https://img.shields.io/badge/HackerOne-@narexsh-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=05070a)](https://hackerone.com/narexsh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yesayapasaribu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070a)](https://linkedin.com/in/yesayapasaribu)
-[![Email](https://img.shields.io/badge/Email-carerra2804-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070a)](mailto:carerra2804@gmail.com)
+[![Email](https://img.shields.io/badge/Email-carerra2804%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070a)](mailto:carerra2804@gmail.com)
 
 </div>
 
